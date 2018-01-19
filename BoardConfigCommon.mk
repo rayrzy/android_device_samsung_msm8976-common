@@ -149,6 +149,9 @@ TARGET_NO_RPC := true
 # HIDL
 DEVICE_MANIFEST_FILE := $(VENDOR_PATH)/manifest.xml
 
+# HWUI
+HWUI_COMPILE_FOR_PERF := true
+
 # Init
 TARGET_PLATFORM_DEVICE_BASE := /devices/soc.0/
 
