@@ -66,6 +66,7 @@ vidc.enc.narrow.searchrange=1
 
 # Perf
 ro.vendor.extension_library=libqti-perfd-client.so
+ro.vendor.qti.sys.fw.bservice_enable=true
 
 # SurfaceFlinger
 ro.surface_flinger.protected_contents=true
