@@ -19,9 +19,7 @@
  * limitations under the License.
  */
 
-#ifndef _BDROID_BUILDCFG_H
-#define _BDROID_BUILDCFG_H
+#pragma once
 #define BTM_DEF_LOCAL_NAME   "Samsung Galaxy Tab S2"
 #define BLUETOOTH_QTI_SW TRUE
 #define BLE_VND_INCLUDED   TRUE
-#endif
