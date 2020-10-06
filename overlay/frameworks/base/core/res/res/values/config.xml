@@ -226,9 +226,6 @@
         <item>"/system/framework/boot-core-libart.vdex"</item>
    </string-array>
 
-    <!-- Should the pinner service pin the Camera application? -->
-    <bool name="config_pinnerCameraApp">true</bool>
-
     <!-- The device supports freeform window management -->
     <bool name="config_freeformWindowManagement">true</bool>
 
