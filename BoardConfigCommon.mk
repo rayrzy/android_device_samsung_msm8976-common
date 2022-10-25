@@ -203,7 +203,7 @@ VENDOR_SECURITY_PATCH := $(PLATFORM_SECURITY_PATCH)
 
 # SELinux
 include device/qcom/sepolicy-legacy/sepolicy.mk
-BOARD_SEPOLICY_DIRS += $(VENDOR_PATH)/sepolicy
+BOARD_SEPOLICY_DIRS += $(VENDOR_PATH)/sepolicy/vendor
 
 # Shims
 TARGET_LD_SHIM_LIBS := \
