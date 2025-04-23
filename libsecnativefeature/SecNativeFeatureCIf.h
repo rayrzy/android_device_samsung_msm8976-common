@@ -21,4 +21,3 @@ const char* SecNativeFeature_getStringWithDefault(const char* tag, char* default
 DECLARE_END_C
 
 #endif // SEC_NATIVE_FEATURE_CIF_H
-

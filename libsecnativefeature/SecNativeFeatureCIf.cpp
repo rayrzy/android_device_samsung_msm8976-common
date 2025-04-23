@@ -5,7 +5,6 @@
 #include <expat.h>
 #include <stdlib.h>
 
-
 int
 SecNativeFeature_getEnableStatus(const char* tag)
 {

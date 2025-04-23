@@ -1,7 +1,6 @@
 #ifndef SEC_NATIVE_FEATURE_TAG_WEB_H
 #define SEC_NATIVE_FEATURE_TAG_WEB_H
 
-
 // Note
 // The string must be same as the string in CSCFeatureTagWeb.java
 // Because one feature coulde be implemented both in java layer and in native layer
@@ -15,7 +14,6 @@
 // To define custom UserAgent string
 // If this value is not defined, the default Android UserAgent will be sent to server
 #define CSCFeatureTagWeb_SetUserAgent	"CscFeature_Web_SetUserAgent"
-
 
 // To define UAProfile string
 // If this value is not defined, UAProfile will not be sent to server

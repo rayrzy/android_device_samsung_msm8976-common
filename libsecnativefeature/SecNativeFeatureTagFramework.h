@@ -1,7 +1,6 @@
 #ifndef SEC_NATIVE_FEATURE_TAG_FRAMEWORK_H
 #define SEC_NATIVE_FEATURE_TAG_FRAMEWORK_H
 
-
 // Note
 // The string must be same as the string in CSCFeatureTagFramework.java
 // Because one feature coulde be implemented both in java layer and in native layer

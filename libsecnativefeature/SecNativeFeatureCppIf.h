@@ -24,4 +24,3 @@ private:
 };
 
 #endif // SEC_NATIVE_FEATURE_CPPIF_H
-
